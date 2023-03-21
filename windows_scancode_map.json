@@ -1,0 +1,7 @@
+{
+    "file": "windows_scancode_map",
+    "file_format_version": "4",
+    "key_path": "SYSTEM\\CurrentControlSet\\Control\\Keyboard Layout",
+    "key_name": "Scancode Map",
+    "key_value": [ 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 100, 0, 58, 0, 0, 0, 0, 0]
+}

@@ -1,4 +1,4 @@
-# gi
+# PyScancodeMap
 
 ## 目的
 
